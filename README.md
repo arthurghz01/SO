@@ -10,7 +10,7 @@ Threads.
 
 <b><h2>Descrição do problema a ser resolvido</b></h2>
 
-Considere que há vários ( ≥ 1) arquivos, cada um deles com uma certa quantidade de números inteiros sem
+Considere que há vários (N ≥ 1) arquivos, cada um deles com uma certa quantidade de números inteiros sem
 ordem estabelecida. O programa deverá ler os dados de todos esses n arquivos, organizá-los em ordem
 crescente e armazenar em um único arquivo resultante.<p>
 A ordenação pode ser feita com qualquer algoritmo estabelecido pela equipe. Entretanto, recomenda-se a
